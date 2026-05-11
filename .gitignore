@@ -1,0 +1,6 @@
+# Scripts de desarrollo
+*.py
+*.gs
+*.txt
+scratch/
+.claude/
