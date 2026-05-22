@@ -15,6 +15,8 @@
                     <button class="menu-tab" data-target="cosmiatria">Cosmiatría</button>
                     <button class="menu-tab" data-target="masajes">Masajes</button>
                     <button class="menu-tab" data-target="holistico">Holístico & Extras</button>
+                    <button class="menu-tab" data-target="aparatologia">Aparatología</button>
+                    <button class="menu-tab" data-target="actividades">Nuestras Actividades</button>
                 </div>
                 <div class="menu-content">
                     <div class="menu-category active" id="manos-pies">
@@ -480,7 +482,7 @@
                                 </div>
                             </div>
                             <div class="service-card">
-                                <div class="service-name">Peeling Glow</div>
+                                <div class="service-name">Peeling</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -490,7 +492,7 @@
                                 </div>
                             </div>
                             <div class="service-card">
-                                <div class="service-name">Dermapen con Micro Agujas</div>
+                                <div class="service-name">Microneedling</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -530,7 +532,7 @@
                                 </div>
                             </div>
                             <div class="service-card">
-                                <div class="service-name">Nanoneedling Ultra Anti Age con Dermaplaning</div>
+                                <div class="service-name">Dermaplaning con Nanoneedling</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -554,8 +556,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$41.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$45.100 <span>Lista</span></div>
+                                        <div class="price-cash">$52.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$57.200 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -564,18 +566,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$41.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$45.100 <span>Lista</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="service-card">
-                                <div class="service-name">Radiofrecuencia en Cuello y Escote</div>
-                                <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> 45'</div>
-                                    <div class="service-prices">
-                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$55.000 <span>Lista</span></div>
+                                        <div class="price-cash">$45.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$49.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -610,12 +602,12 @@
                                 </div>
                             </div>
                             <div class="service-card">
-                                <div class="service-name">Lifting Cosmetológico</div>
+                                <div class="service-name">Extracción de Acrocordones</div>
                                 <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
+                                    <div class="service-duration"></div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$60.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$66.000 <span>Lista</span></div>
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -810,8 +802,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$40.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$44.000 <span>Lista</span></div>
+                                        <div class="price-cash">$45.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$49.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -835,6 +827,132 @@
                                 <div class="service-name">Giftcards con Productos y Servicios</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="aparatologia">
+                        <div class="category-header">
+                            <h3>Aparatología</h3>
+                            <div class="line"></div>
+                        </div>
+                        <div class="service-grid">
+                            <div class="service-card">
+                                <div class="service-name">Crio-Fraxis</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Radiofrecuencia Fraccionada</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">HIFU</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Láser ND YAG</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Criolipolisis</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Liposonix</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Body Up</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Vela Slim</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="actividades">
+                        <div class="category-header">
+                            <h3>Clases</h3>
+                            <div class="line"></div>
+                        </div>
+                        <div class="service-grid">
+                            <div class="service-card">
+                                <div class="service-name">Yoga</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> Mar y Jue 9hs, 17hs y 18.30hs</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Esferodinamia</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> Mié y Vie 18.30hs</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Tai Chi</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> Sáb 10hs</div>
                                     <div class="service-prices">
                                         <div class="price-cash">Consultar <span></span></div>
                                         

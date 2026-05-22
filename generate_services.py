@@ -61,20 +61,19 @@ data = [
     {"tab": "cosmiatria", "title": "Cosmiatría", "categories": [
         {"name": "Tratamientos Faciales", "items": [
             {"name": "Higiene Premium", "cash": "45.000", "list": "49.500", "time": "90'", "best": True},
-            {"name": "Peeling Glow", "cash": "45.000", "list": "49.500", "time": "60'", "best": False},
-            {"name": "Dermapen con Micro Agujas", "cash": "50.000", "list": "55.000", "time": "90'", "best": False},
+            {"name": "Peeling", "cash": "45.000", "list": "49.500", "time": "60'", "best": False},
+            {"name": "Microneedling", "cash": "50.000", "list": "55.000", "time": "90'", "best": False},
             {"name": "Higiene Profunda de Espalda", "cash": "55.000", "list": "60.500", "time": "70'", "best": False},
             {"name": "Rejuvenecimiento en Manos", "cash": "22.000", "list": "24.200", "time": "20'", "best": False},
             {"name": "Higiene Premium con Dermaplaning", "cash": "55.000", "list": "60.500", "time": "90'", "best": False},
-            {"name": "Nanoneedling Ultra Anti Age con Dermaplaning", "cash": "65.000", "list": "71.500", "time": "90'", "best": False},
+            {"name": "Dermaplaning con Nanoneedling", "cash": "65.000", "list": "71.500", "time": "90'", "best": False},
             {"name": "Radiofrecuencia Facial", "cash": "45.000", "list": "49.500", "time": "90'", "best": False},
-            {"name": "Higiene con Terapia LED", "cash": "41.000", "list": "45.100", "time": "90'", "best": False},
-            {"name": "Hidratación con Ultrasonido", "cash": "41.000", "list": "45.100", "time": "90'", "best": False},
-            {"name": "Radiofrecuencia en Cuello y Escote", "cash": "50.000", "list": "55.000", "time": "45'", "best": False},
+            {"name": "Higiene con Terapia LED", "cash": "52.000", "list": "57.200", "time": "90'", "best": False},
+            {"name": "Hidratación con Ultrasonido", "cash": "45.000", "list": "49.500", "time": "90'", "best": False},
             {"name": "Tratamiento con Acné", "cash": "45.000", "list": "49.500", "time": "90'", "best": False},
             {"name": "Colagenina y Fillerina (1 Sesión)", "cash": "65.000", "list": "71.500", "time": "90'", "best": False},
             {"name": "Colagenina y Fillerina (2 Sesiones)", "cash": "58.000", "list": "63.800", "time": "90'", "best": False},
-            {"name": "Lifting Cosmetológico", "cash": "60.000", "list": "66.000", "time": "90'", "best": False}
+            {"name": "Extracción de Acrocordones", "cash": "Consultar", "list": "", "time": "--", "best": False}
         ]}
     ]},
     {"tab": "masajes", "title": "Masajes", "categories": [
@@ -100,11 +99,30 @@ data = [
             {"name": "Revolución Solar", "cash": "80.000", "list": "88.000", "time": "60'", "best": False},
             {"name": "Astrología + Tarot + Oráculos", "cash": "60.000", "list": "66.000", "time": "60'", "best": True},
             {"name": "Carta Numerológica", "cash": "35.000", "list": "38.500", "time": "60'", "best": True},
-            {"name": "Cosmetología Holística", "cash": "40.000", "list": "44.000", "time": "90'", "best": True}
+            {"name": "Cosmetología Holística", "cash": "45.000", "list": "49.500", "time": "90'", "best": True}
         ]},
         {"name": "Servicios Adicionales", "items": [
             {"name": "Maquillaje Social / Novias", "cash": "Consultar", "list": "", "time": "--", "best": False},
             {"name": "Giftcards con Productos y Servicios", "cash": "Consultar", "list": "", "time": "--", "best": False}
+        ]}
+    ]},
+    {"tab": "aparatologia", "title": "Aparatología", "categories": [
+        {"name": "Aparatología", "items": [
+            {"name": "Crio-Fraxis", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Radiofrecuencia Fraccionada", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "HIFU", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Láser ND YAG", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Criolipolisis", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Liposonix", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Body Up", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Vela Slim", "cash": "Consultar", "list": "", "time": "--", "best": False}
+        ]}
+    ]},
+    {"tab": "actividades", "title": "Nuestras Actividades", "categories": [
+        {"name": "Clases", "items": [
+            {"name": "Yoga", "cash": "Consultar", "list": "", "time": "Mar y Jue 9hs, 17hs y 18.30hs", "best": False},
+            {"name": "Esferodinamia", "cash": "Consultar", "list": "", "time": "Mié y Vie 18.30hs", "best": False},
+            {"name": "Tai Chi", "cash": "Consultar", "list": "", "time": "Sáb 10hs", "best": False}
         ]}
     ]}
 ]
@@ -122,7 +140,8 @@ html = """
                 <div class="menu-tabs">
 """
 
-for i, tab in enumerate(data):
+visible_tabs = [tab for tab in data if tab.get("show_tab", True)]
+for i, tab in enumerate(visible_tabs):
     active = ' active' if i == 0 else ''
     html += f'                    <button class="menu-tab{active}" data-target="{tab["tab"]}">{tab["title"]}</button>\n'
 
