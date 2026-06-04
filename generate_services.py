@@ -17,77 +17,78 @@ data = [
             {"name": "Belleza de Pies con Esmaltado Tradicional", "cash": "26.000", "list": "28.600", "time": "60'", "best": False},
             {"name": "Belleza de Pies con Esmaltado Semipermanente", "cash": "26.000", "list": "28.600", "time": "60'", "best": False},
             {"name": "Spa de Pies", "cash": "18.000", "list": "19.800", "time": "40'", "best": True},
-            {"name": "Pedicuría sin Esmaltado", "cash": "29.000", "list": "31.900", "time": "50'", "best": False},
-            {"name": "Pedicuría con Esmaltado Semipermanente o Tradicional", "cash": "32.000", "list": "35.200", "time": "60'", "best": False},
-            {"name": "Promo Spa Manos y Pies", "cash": "30.000", "list": "33.000", "time": "90'", "best": True}
+            {"name": "Pedicuría sin Esmaltado", "cash": "32.000", "list": "35.200", "time": "50'", "best": False},
+            {"name": "Pedicuría con Esmaltado Semipermanente o Tradicional", "cash": "35.000", "list": "38.500", "time": "60'", "best": False},
+            {"name": "Promo Spa Manos y Pies", "cash": "35.000", "list": "38.500", "time": "90'", "best": True}
         ]}
     ]},
     {"tab": "peluqueria", "title": "Peluquería", "categories": [
         {"name": "Peluquería", "items": [
-            {"name": "Corte Dama", "cash": "27.000", "list": "29.700", "time": "60'", "best": False},
-            {"name": "Corte Hombre", "cash": "22.000", "list": "24.200", "time": "40'", "best": False},
+            {"name": "Corte Dama", "cash": "30.000", "list": "33.000", "time": "60'", "best": False},
+            {"name": "Corte Hombre", "cash": "24.000", "list": "26.400", "time": "40'", "best": False},
             {"name": "Corte Niño (Hasta 7 años)", "cash": "18.000", "list": "19.800", "time": "30'", "best": False},
-            {"name": "Tintura (Desde)", "cash": "59.000", "list": "64.900", "time": "120'", "best": False},
-            {"name": "Reflejos / Mechas / Balayage", "cash": "Consultar", "list": "", "time": "--", "best": False},
-            {"name": "Alisado / Keratina (Desde)", "cash": "65.000", "list": "71.500", "time": "120'", "best": False},
-            {"name": "Baño de Crema Karsell", "cash": "55.000", "list": "60.500", "time": "90'", "best": True},
-            {"name": "Peinado para Fiestas", "cash": "60.000", "list": "66.000", "time": "--", "best": False},
-            {"name": "Cauterización Células Madres", "cash": "60.000", "list": "66.000", "time": "90'", "best": True},
-            {"name": "Reflejos Hombre Desde", "cash": "30.000", "list": "33.000", "time": "--", "best": False}
+            {"name": "Tintura (Desde)", "cash": "65.000", "list": "71.500", "time": "120'", "best": False},
+            {"name": "Reflejos / Mechas / Balayage", "cash": "160.000", "list": "176.000", "time": "--", "best": False},
+            {"name": "Alisado / Keratina (Desde)", "cash": "70.000", "list": "77.000", "time": "120'", "best": False},
+            {"name": "Baño de Crema Karseell", "cash": "60.000", "list": "66.000", "time": "90'", "best": True},
+            {"name": "Peinado para Fiestas", "cash": "70.000", "list": "77.000", "time": "--", "best": False},
+            {"name": "Cauterización Células Madres", "cash": "65.000", "list": "71.500", "time": "90'", "best": True},
+            {"name": "Reflejos Hombre Desde", "cash": "85.000", "list": "93.500", "time": "--", "best": False}
         ]}
     ]},
     {"tab": "pestanas-cejas", "title": "Pestañas y Cejas", "categories": [
         {"name": "Pestañas", "items": [
-            {"name": "Lifting de Pestañas + Tinte y Botox", "cash": "35.000", "list": "38.500", "time": "60'", "best": False},
-            {"name": "Pelo x Pelo Clásicas (Full)", "cash": "36.000", "list": "39.600", "time": "40'", "best": False},
-            {"name": "Pelo x Pelo Clásicas (Service)", "cash": "34.000", "list": "37.400", "time": "90'", "best": False},
-            {"name": "Efecto Rímel o Húmedo (Full)", "cash": "38.000", "list": "41.800", "time": "90'", "best": False},
-            {"name": "Efecto Rímel o Húmedo (Service)", "cash": "36.000", "list": "39.600", "time": "90'", "best": False},
-            {"name": "Tecnológicas 2D (Full)", "cash": "40.000", "list": "44.000", "time": "90'", "best": False},
-            {"name": "Tecnológicas 2D (Service)", "cash": "38.000", "list": "41.800", "time": "90'", "best": False},
-            {"name": "Tecnológicas 4D (Full)", "cash": "42.000", "list": "46.200", "time": "90'", "best": False},
-            {"name": "Tecnológicas 4D (Service)", "cash": "40.000", "list": "44.000", "time": "90'", "best": False}
+            {"name": "Lifting de Pestañas + Tinte y Botox", "cash": "38.000", "list": "41.800", "time": "60'", "best": False},
+            {"name": "Pelo x Pelo Clásicas (Full)", "cash": "39.000", "list": "42.900", "time": "40'", "best": False},
+            {"name": "Pelo x Pelo Clásicas (Service)", "cash": "37.000", "list": "40.700", "time": "90'", "best": False},
+            {"name": "Efecto Rímel o Húmedo (Full)", "cash": "41.000", "list": "45.100", "time": "90'", "best": False},
+            {"name": "Efecto Rímel o Húmedo (Service)", "cash": "39.000", "list": "42.900", "time": "90'", "best": False},
+            {"name": "Tecnológicas 2D (Full)", "cash": "44.000", "list": "48.400", "time": "90'", "best": False},
+            {"name": "Tecnológicas 2D (Service)", "cash": "42.000", "list": "46.200", "time": "90'", "best": False},
+            {"name": "Tecnológicas 4D (Full)", "cash": "46.000", "list": "50.600", "time": "90'", "best": False},
+            {"name": "Tecnológicas 4D (Service)", "cash": "44.000", "list": "48.400", "time": "90'", "best": False},
+            {"name": "Consultar por Volumen // Tecnológicas 5 y 6D", "cash": "Consultar", "list": "", "time": "--", "best": False}
         ]},
         {"name": "Cejas y Promos", "items": [
-            {"name": "Perfilado de Cejas", "cash": "14.000", "list": "15.400", "time": "45'", "best": False},
-            {"name": "Perfilado de Cejas y Henna", "cash": "26.000", "list": "28.600", "time": "20'", "best": False},
-            {"name": "Laminado de Cejas y Perfilado", "cash": "30.000", "list": "33.000", "time": "45'", "best": False},
-            {"name": "Laminado de Cejas y Perfilado + Henna", "cash": "35.000", "list": "38.500", "time": "60'", "best": False},
+            {"name": "Perfilado de Cejas", "cash": "16.000", "list": "17.600", "time": "30'", "best": False},
+            {"name": "Perfilado de Cejas y Henna", "cash": "29.000", "list": "31.900", "time": "20'", "best": False},
+            {"name": "Laminado de Cejas y Perfilado", "cash": "33.000", "list": "36.300", "time": "45'", "best": False},
+            {"name": "Laminado de Cejas y Perfilado + Henna", "cash": "40.000", "list": "44.000", "time": "60'", "best": False},
             {"name": "Microblading", "cash": "Consultar", "list": "", "time": "--", "best": False},
-            {"name": "Promo Ojos: Lifting Completo + Laminado + Perfilado", "cash": "55.000", "list": "60.500", "time": "75'", "best": True},
-            {"name": "Promo Ojos: Lifting Completo + Perfilado", "cash": "44.000", "list": "48.400", "time": "60'", "best": False}
+            {"name": "Promo Ojos: Lifting Completo + Laminado + Perfilado", "cash": "60.000", "list": "66.000", "time": "60'", "best": False},
+            {"name": "Promo Ojos: Lifting Completo + Perfilado", "cash": "49.000", "list": "53.900", "time": "60'", "best": False}
         ]}
     ]},
     {"tab": "cosmiatria", "title": "Cosmiatría", "categories": [
         {"name": "Tratamientos Faciales", "items": [
-            {"name": "Higiene Premium", "cash": "45.000", "list": "49.500", "time": "90'", "best": True},
-            {"name": "Peeling", "cash": "45.000", "list": "49.500", "time": "60'", "best": False},
-            {"name": "Microneedling", "cash": "50.000", "list": "55.000", "time": "90'", "best": False},
-            {"name": "Higiene Profunda de Espalda", "cash": "55.000", "list": "60.500", "time": "70'", "best": False},
-            {"name": "Rejuvenecimiento en Manos", "cash": "22.000", "list": "24.200", "time": "20'", "best": False},
-            {"name": "Higiene Premium con Dermaplaning", "cash": "55.000", "list": "60.500", "time": "90'", "best": False},
-            {"name": "Dermaplaning con Nanoneedling", "cash": "65.000", "list": "71.500", "time": "90'", "best": False},
-            {"name": "Radiofrecuencia Facial", "cash": "45.000", "list": "49.500", "time": "90'", "best": False},
-            {"name": "Higiene con Terapia LED", "cash": "52.000", "list": "57.200", "time": "90'", "best": False},
-            {"name": "Hidratación con Ultrasonido", "cash": "45.000", "list": "49.500", "time": "90'", "best": False},
-            {"name": "Tratamiento con Acné", "cash": "45.000", "list": "49.500", "time": "90'", "best": False},
-            {"name": "Colagenina y Fillerina (1 Sesión)", "cash": "65.000", "list": "71.500", "time": "90'", "best": False},
-            {"name": "Colagenina y Fillerina (2 Sesiones)", "cash": "58.000", "list": "63.800", "time": "90'", "best": False},
+            {"name": "Higiene Premium", "cash": "50.000", "list": "55.000", "time": "90'", "best": True},
+            {"name": "Peeling", "cash": "50.000", "list": "55.000", "time": "60'", "best": False},
+            {"name": "Microneedling", "cash": "55.000", "list": "60.500", "time": "90'", "best": False},
+            {"name": "Higiene Profunda de Espalda", "cash": "60.000", "list": "66.000", "time": "70'", "best": False},
+            {"name": "Rejuvenecimiento en Manos", "cash": "25.000", "list": "27.500", "time": "20'", "best": True},
+            {"name": "Higiene Premium con Dermaplaning", "cash": "60.000", "list": "66.000", "time": "90'", "best": False},
+            {"name": "Dermaplaning con Nanoneedling", "cash": "70.000", "list": "77.000", "time": "90'", "best": False},
+            {"name": "Radiofrecuencia Facial", "cash": "50.000", "list": "55.000", "time": "90'", "best": False},
+            {"name": "Higiene con Terapia LED", "cash": "55.000", "list": "60.500", "time": "90'", "best": False},
+            {"name": "Hidratación con Ultrasonido", "cash": "55.000", "list": "60.500", "time": "90'", "best": False},
+            {"name": "Tratamiento con Acné", "cash": "50.000", "list": "55.000", "time": "90'", "best": False},
+            {"name": "Colagenina y Fillerina (1 Sesión)", "cash": "70.000", "list": "77.000", "time": "90'", "best": False},
+            {"name": "Colagenina y Fillerina (2 Sesiones)", "cash": "63.000", "list": "69.300", "time": "90'", "best": False},
             {"name": "Extracción de Acrocordones", "cash": "Consultar", "list": "", "time": "--", "best": False}
         ]}
     ]},
     {"tab": "masajes", "title": "Masajes", "categories": [
         {"name": "Masajes y Relax", "items": [
-            {"name": "Descontracturante y Relajante", "cash": "36.000", "list": "39.600", "time": "60'", "best": True},
-            {"name": "Drenaje Linfático", "cash": "36.000", "list": "39.600", "time": "60'", "best": False},
-            {"name": "Masaje Premium", "cash": "50.000", "list": "55.000", "time": "90'", "best": False},
-            {"name": "Ayurveda", "cash": "50.000", "list": "55.000", "time": "90'", "best": False},
-            {"name": "Strong", "cash": "50.000", "list": "55.000", "time": "60'", "best": False},
-            {"name": "Maderoterapia / Masajes Reductores", "cash": "36.000", "list": "39.600", "time": "60'", "best": False},
-            {"name": "Reflexología", "cash": "36.000", "list": "39.600", "time": "60'", "best": True},
-            {"name": "Masaje con Reiki", "cash": "50.000", "list": "55.000", "time": "90'", "best": True},
-            {"name": "Masaje Craneal y Piernas Cansadas", "cash": "31.000", "list": "34.100", "time": "45'", "best": False},
-            {"name": "Piedras Calientes", "cash": "40.000", "list": "44.000", "time": "60'", "best": True}
+            {"name": "Descontracturante y Relajante", "cash": "40.000", "list": "44.000", "time": "60'", "best": False},
+            {"name": "Drenaje Linfático", "cash": "40.000", "list": "44.000", "time": "60'", "best": False},
+            {"name": "Masaje Premium (Descont. + Higiene Facial + Capilares)", "cash": "55.000", "list": "60.500", "time": "90'", "best": True},
+            {"name": "Ayurveda", "cash": "55.000", "list": "60.500", "time": "90'", "best": True},
+            {"name": "Strong", "cash": "55.000", "list": "60.500", "time": "60'", "best": False},
+            {"name": "Maderoterapia / Masajes Reductores", "cash": "40.000", "list": "44.000", "time": "60'", "best": False},
+            {"name": "Reflexología", "cash": "40.000", "list": "44.000", "time": "60'", "best": True},
+            {"name": "Masaje con Reiki", "cash": "55.000", "list": "60.500", "time": "90'", "best": True},
+            {"name": "Masaje Craneal y Piernas Cansadas", "cash": "40.000", "list": "44.000", "time": "45'", "best": False},
+            {"name": "Piedras Calientes", "cash": "45.000", "list": "49.500", "time": "60'", "best": True}
         ]}
     ]},
     {"tab": "holistico", "title": "Holístico & Extras", "categories": [
@@ -99,19 +100,19 @@ data = [
             {"name": "Revolución Solar", "cash": "80.000", "list": "88.000", "time": "60'", "best": False},
             {"name": "Astrología + Tarot + Oráculos", "cash": "60.000", "list": "66.000", "time": "60'", "best": True},
             {"name": "Carta Numerológica", "cash": "35.000", "list": "38.500", "time": "60'", "best": True},
-            {"name": "Cosmetología Holística", "cash": "45.000", "list": "49.500", "time": "90'", "best": True}
+            {"name": "Cosmetología Holística", "cash": "50.000", "list": "55.000", "time": "90'", "best": False}
         ]},
         {"name": "Servicios Adicionales", "items": [
-            {"name": "Maquillaje Social / Novias", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Maquillaje Social, Quinceañeras / Novias / Madrinas", "cash": "Consultar", "list": "", "time": "--", "best": False},
             {"name": "Giftcards con Productos y Servicios", "cash": "Consultar", "list": "", "time": "--", "best": False}
         ]}
     ]},
     {"tab": "aparatologia", "title": "Aparatología", "categories": [
         {"name": "Aparatología", "items": [
-            {"name": "Crio-Fraxis", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Depilación Definitiva", "cash": "Consultar", "list": "", "time": "Martes 30/6", "best": False},
+            {"name": "Crio-Fraxis", "cash": "Consultar", "list": "", "time": "Martes 30/6", "best": False},
             {"name": "Radiofrecuencia Fraccionada", "cash": "Consultar", "list": "", "time": "--", "best": False},
-            {"name": "HIFU", "cash": "Consultar", "list": "", "time": "--", "best": False},
-            {"name": "Láser ND YAG", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Láser ND YAG", "cash": "Consultar", "list": "", "time": "Miércoles 3/6", "best": False},
             {"name": "Criolipolisis", "cash": "Consultar", "list": "", "time": "--", "best": False},
             {"name": "Liposonix", "cash": "Consultar", "list": "", "time": "--", "best": False},
             {"name": "Body Up", "cash": "Consultar", "list": "", "time": "--", "best": False},
@@ -143,7 +144,7 @@ html = """
 visible_tabs = [tab for tab in data if tab.get("show_tab", True)]
 for i, tab in enumerate(visible_tabs):
     active = ' active' if i == 0 else ''
-    html += f'                    <button class="menu-tab{active}" data-target="{tab["tab"]}">{tab["title"]}</button>\n'
+    html += f'                    <button class="menu-tab{active}" data-target="{tab["tab"]}">{tab["title"]}</button>\\n'
 
 html += """                </div>
                 <div class="menu-content">
@@ -151,15 +152,15 @@ html += """                </div>
 
 for i, tab in enumerate(data):
     active = ' active' if i == 0 else ''
-    html += f'                    <div class="menu-category{active}" id="{tab["tab"]}">\n'
+    html += f'                    <div class="menu-category{active}" id="{tab["tab"]}">\\n'
     
     for cat in tab["categories"]:
-        html += f"""                        <div class="category-header">
+        html += f\"\"\"                        <div class="category-header">
                             <h3>{cat["name"]}</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
-"""
+\"\"\"
         for item in cat["items"]:
             best = ' best-seller' if item["best"] else ''
             
@@ -167,7 +168,7 @@ for i, tab in enumerate(data):
             list_price = f'${item["list"]} <span>Lista</span>' if item["list"] != '' else ''
             time_icon = f'<i class="far fa-clock"></i> {item["time"]}' if item["time"] != '--' else ''
             
-            html += f"""                            <div class="service-card{best}">
+            html += f\"\"\"                            <div class="service-card{best}">
                                 <div class="service-name">{item["name"]}</div>
                                 <div class="service-details-row">
                                     <div class="service-duration">{time_icon}</div>
@@ -177,9 +178,9 @@ for i, tab in enumerate(data):
                                     </div>
                                 </div>
                             </div>
-"""
-        html += "                        </div><br>\n"
-    html += "                    </div>\n"
+\"\"\"
+        html += "                        </div><br>\\n"
+    html += "                    </div>\\n"
 
 html += """                </div>
             </div>
