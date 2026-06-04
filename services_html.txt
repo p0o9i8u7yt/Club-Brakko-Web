@@ -156,8 +156,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 50'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$29.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$31.900 <span>Lista</span></div>
+                                        <div class="price-cash">$32.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$35.200 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -166,8 +166,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$32.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$35.200 <span>Lista</span></div>
+                                        <div class="price-cash">$35.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$38.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -176,8 +176,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$30.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$33.000 <span>Lista</span></div>
+                                        <div class="price-cash">$35.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$38.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -194,8 +194,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$27.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$29.700 <span>Lista</span></div>
+                                        <div class="price-cash">$30.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$33.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -204,8 +204,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 40'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$22.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$24.200 <span>Lista</span></div>
+                                        <div class="price-cash">$24.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$26.400 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -224,8 +224,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 120'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$59.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$64.900 <span>Lista</span></div>
+                                        <div class="price-cash">$65.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$71.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -234,8 +234,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
-                                        <div class="price-cash">Consultar <span></span></div>
-                                        
+                                        <div class="price-cash">$160.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$176.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -244,18 +244,18 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 120'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$65.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$71.500 <span>Lista</span></div>
+                                        <div class="price-cash">$70.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$77.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="service-card best-seller">
-                                <div class="service-name">Baño de Crema Karsell</div>
+                                <div class="service-name">Baño de Crema Karseell</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$55.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$60.500 <span>Lista</span></div>
+                                        <div class="price-cash">$60.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$66.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -264,8 +264,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$60.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$66.000 <span>Lista</span></div>
+                                        <div class="price-cash">$70.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$77.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -274,8 +274,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$60.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$66.000 <span>Lista</span></div>
+                                        <div class="price-cash">$65.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$71.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -284,8 +284,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$30.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$33.000 <span>Lista</span></div>
+                                        <div class="price-cash">$85.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$93.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -302,8 +302,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$35.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$38.500 <span>Lista</span></div>
+                                        <div class="price-cash">$38.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$41.800 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -312,8 +312,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 40'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$36.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$39.600 <span>Lista</span></div>
+                                        <div class="price-cash">$39.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$42.900 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -322,8 +322,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$34.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$37.400 <span>Lista</span></div>
+                                        <div class="price-cash">$37.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$40.700 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -332,8 +332,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$38.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$41.800 <span>Lista</span></div>
+                                        <div class="price-cash">$41.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$45.100 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -342,8 +342,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$36.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$39.600 <span>Lista</span></div>
+                                        <div class="price-cash">$39.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$42.900 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -352,23 +352,13 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$40.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$44.000 <span>Lista</span></div>
+                                        <div class="price-cash">$44.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$48.400 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Tecnológicas 2D (Service)</div>
-                                <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
-                                    <div class="service-prices">
-                                        <div class="price-cash">$38.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$41.800 <span>Lista</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="service-card">
-                                <div class="service-name">Tecnológicas 4D (Full)</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -378,12 +368,32 @@
                                 </div>
                             </div>
                             <div class="service-card">
+                                <div class="service-name">Tecnológicas 4D (Full)</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">$46.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$50.600 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
                                 <div class="service-name">Tecnológicas 4D (Service)</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$40.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$44.000 <span>Lista</span></div>
+                                        <div class="price-cash">$44.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$48.400 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Consultar por Volumen // Tecnológicas 5 y 6D</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -396,10 +406,10 @@
                             <div class="service-card">
                                 <div class="service-name">Perfilado de Cejas</div>
                                 <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> 45'</div>
+                                    <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$14.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$15.400 <span>Lista</span></div>
+                                        <div class="price-cash">$16.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$17.600 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -408,8 +418,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 20'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$26.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$28.600 <span>Lista</span></div>
+                                        <div class="price-cash">$29.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$31.900 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -418,8 +428,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 45'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$30.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$33.000 <span>Lista</span></div>
+                                        <div class="price-cash">$33.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$36.300 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -428,8 +438,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$35.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$38.500 <span>Lista</span></div>
+                                        <div class="price-cash">$40.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$44.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -443,13 +453,13 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="service-card best-seller">
+                            <div class="service-card">
                                 <div class="service-name">Promo Ojos: Lifting Completo + Laminado + Perfilado</div>
                                 <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> 75'</div>
+                                    <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$55.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$60.500 <span>Lista</span></div>
+                                        <div class="price-cash">$60.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$66.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -458,8 +468,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$44.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$48.400 <span>Lista</span></div>
+                                        <div class="price-cash">$49.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$53.900 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -476,8 +486,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$45.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$49.500 <span>Lista</span></div>
+                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$55.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -486,13 +496,63 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$45.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$49.500 <span>Lista</span></div>
+                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$55.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Microneedling</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">$55.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$60.500 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Higiene Profunda de Espalda</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> 70'</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">$60.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$66.000 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card best-seller">
+                                <div class="service-name">Rejuvenecimiento en Manos</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> 20'</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">$25.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$27.500 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Higiene Premium con Dermaplaning</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">$60.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$66.000 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Dermaplaning con Nanoneedling</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">$70.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$77.000 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Radiofrecuencia Facial</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -502,62 +562,12 @@
                                 </div>
                             </div>
                             <div class="service-card">
-                                <div class="service-name">Higiene Profunda de Espalda</div>
-                                <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> 70'</div>
-                                    <div class="service-prices">
-                                        <div class="price-cash">$55.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$60.500 <span>Lista</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="service-card">
-                                <div class="service-name">Rejuvenecimiento en Manos</div>
-                                <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> 20'</div>
-                                    <div class="service-prices">
-                                        <div class="price-cash">$22.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$24.200 <span>Lista</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="service-card">
-                                <div class="service-name">Higiene Premium con Dermaplaning</div>
-                                <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
-                                    <div class="service-prices">
-                                        <div class="price-cash">$55.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$60.500 <span>Lista</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="service-card">
-                                <div class="service-name">Dermaplaning con Nanoneedling</div>
-                                <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
-                                    <div class="service-prices">
-                                        <div class="price-cash">$65.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$71.500 <span>Lista</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="service-card">
-                                <div class="service-name">Radiofrecuencia Facial</div>
-                                <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
-                                    <div class="service-prices">
-                                        <div class="price-cash">$45.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$49.500 <span>Lista</span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="service-card">
                                 <div class="service-name">Higiene con Terapia LED</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$52.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$57.200 <span>Lista</span></div>
+                                        <div class="price-cash">$55.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$60.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -566,8 +576,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$45.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$49.500 <span>Lista</span></div>
+                                        <div class="price-cash">$55.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$60.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -576,8 +586,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$45.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$49.500 <span>Lista</span></div>
+                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$55.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -586,8 +596,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$65.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$71.500 <span>Lista</span></div>
+                                        <div class="price-cash">$70.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$77.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -596,8 +606,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$58.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$63.800 <span>Lista</span></div>
+                                        <div class="price-cash">$63.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$69.300 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -619,13 +629,13 @@
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
-                            <div class="service-card best-seller">
+                            <div class="service-card">
                                 <div class="service-name">Descontracturante y Relajante</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$36.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$39.600 <span>Lista</span></div>
+                                        <div class="price-cash">$40.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$44.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -634,28 +644,28 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$36.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$39.600 <span>Lista</span></div>
+                                        <div class="price-cash">$40.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$44.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="service-card">
-                                <div class="service-name">Masaje Premium</div>
+                            <div class="service-card best-seller">
+                                <div class="service-name">Masaje Premium (Descont. + Higiene Facial + Capilares)</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$55.000 <span>Lista</span></div>
+                                        <div class="price-cash">$55.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$60.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="service-card">
+                            <div class="service-card best-seller">
                                 <div class="service-name">Ayurveda</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$55.000 <span>Lista</span></div>
+                                        <div class="price-cash">$55.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$60.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -664,8 +674,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$55.000 <span>Lista</span></div>
+                                        <div class="price-cash">$55.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$60.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -674,8 +684,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$36.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$39.600 <span>Lista</span></div>
+                                        <div class="price-cash">$40.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$44.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -684,8 +694,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$36.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$39.600 <span>Lista</span></div>
+                                        <div class="price-cash">$40.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$44.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -694,8 +704,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$55.000 <span>Lista</span></div>
+                                        <div class="price-cash">$55.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$60.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -704,8 +714,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 45'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$31.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$34.100 <span>Lista</span></div>
+                                        <div class="price-cash">$40.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$44.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -714,8 +724,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$40.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$44.000 <span>Lista</span></div>
+                                        <div class="price-cash">$45.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$49.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -797,13 +807,13 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="service-card best-seller">
+                            <div class="service-card">
                                 <div class="service-name">Cosmetología Holística</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$45.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$49.500 <span>Lista</span></div>
+                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$55.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -814,7 +824,7 @@
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
-                                <div class="service-name">Maquillaje Social / Novias</div>
+                                <div class="service-name">Maquillaje Social, Quinceañeras / Novias / Madrinas</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -842,9 +852,19 @@
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
+                                <div class="service-name">Depilación Definitiva</div>
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> Martes 30/6</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
                                 <div class="service-name">Crio-Fraxis</div>
                                 <div class="service-details-row">
-                                    <div class="service-duration"></div>
+                                    <div class="service-duration"><i class="far fa-clock"></i> Martes 30/6</div>
                                     <div class="service-prices">
                                         <div class="price-cash">Consultar <span></span></div>
                                         
@@ -862,19 +882,9 @@
                                 </div>
                             </div>
                             <div class="service-card">
-                                <div class="service-name">HIFU</div>
-                                <div class="service-details-row">
-                                    <div class="service-duration"></div>
-                                    <div class="service-prices">
-                                        <div class="price-cash">Consultar <span></span></div>
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="service-card">
                                 <div class="service-name">Láser ND YAG</div>
                                 <div class="service-details-row">
-                                    <div class="service-duration"></div>
+                                    <div class="service-duration"><i class="far fa-clock"></i> Miércoles 3/6</div>
                                     <div class="service-prices">
                                         <div class="price-cash">Consultar <span></span></div>
                                         
