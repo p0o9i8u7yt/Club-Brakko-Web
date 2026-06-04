@@ -155,12 +155,12 @@ for i, tab in enumerate(data):
     html += f'                    <div class="menu-category{active}" id="{tab["tab"]}">\\n'
     
     for cat in tab["categories"]:
-        html += f\"\"\"                        <div class="category-header">
+        html += f"""                        <div class="category-header">
                             <h3>{cat["name"]}</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
-\"\"\"
+"""
         for item in cat["items"]:
             best = ' best-seller' if item["best"] else ''
             
@@ -168,7 +168,7 @@ for i, tab in enumerate(data):
             list_price = f'${item["list"]} <span>Lista</span>' if item["list"] != '' else ''
             time_icon = f'<i class="far fa-clock"></i> {item["time"]}' if item["time"] != '--' else ''
             
-            html += f\"\"\"                            <div class="service-card{best}">
+            html += f"""                            <div class="service-card{best}">
                                 <div class="service-name">{item["name"]}</div>
                                 <div class="service-details-row">
                                     <div class="service-duration">{time_icon}</div>
@@ -178,7 +178,7 @@ for i, tab in enumerate(data):
                                     </div>
                                 </div>
                             </div>
-\"\"\"
+"""
         html += "                        </div><br>\\n"
     html += "                    </div>\\n"
 

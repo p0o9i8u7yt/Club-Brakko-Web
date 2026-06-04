@@ -9,18 +9,9 @@
 
             <div class="menu-container">
                 <div class="menu-tabs">
-                    <button class="menu-tab active" data-target="manos-pies">Manos y Pies</button>
-                    <button class="menu-tab" data-target="peluqueria">Peluquería</button>
-                    <button class="menu-tab" data-target="pestanas-cejas">Pestañas y Cejas</button>
-                    <button class="menu-tab" data-target="cosmiatria">Cosmiatría</button>
-                    <button class="menu-tab" data-target="masajes">Masajes</button>
-                    <button class="menu-tab" data-target="holistico">Holístico & Extras</button>
-                    <button class="menu-tab" data-target="aparatologia">Aparatología</button>
-                    <button class="menu-tab" data-target="actividades">Nuestras Actividades</button>
-                </div>
+                    <button class="menu-tab active" data-target="manos-pies">Manos y Pies</button>\n                    <button class="menu-tab" data-target="peluqueria">Peluquería</button>\n                    <button class="menu-tab" data-target="pestanas-cejas">Pestañas y Cejas</button>\n                    <button class="menu-tab" data-target="cosmiatria">Cosmiatría</button>\n                    <button class="menu-tab" data-target="masajes">Masajes</button>\n                    <button class="menu-tab" data-target="holistico">Holístico & Extras</button>\n                    <button class="menu-tab" data-target="aparatologia">Aparatología</button>\n                    <button class="menu-tab" data-target="actividades">Nuestras Actividades</button>\n                </div>
                 <div class="menu-content">
-                    <div class="menu-category active" id="manos-pies">
-                        <div class="category-header">
+                    <div class="menu-category active" id="manos-pies">\n                        <div class="category-header">
                             <h3>Manicuría</h3>
                             <div class="line"></div>
                         </div>
@@ -28,10 +19,10 @@
                             <div class="service-card">
                                 <div class="service-name">Manicuría con Esmaltado Tradicional</div>
                                 <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
+                                    <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$20.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$22.000 <span>Lista</span></div>
+                                        <div class="price-cash">$23.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$25.300 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -40,8 +31,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$22.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$24.200 <span>Lista</span></div>
+                                        <div class="price-cash">$24.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$26.400 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -50,8 +41,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$29.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$31.900 <span>Lista</span></div>
+                                        <div class="price-cash">$33.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$36.300 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -60,8 +51,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$31.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$34.100 <span>Lista</span></div>
+                                        <div class="price-cash">$35.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$38.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -70,8 +61,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 120'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$35.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$38.500 <span>Lista</span></div>
+                                        <div class="price-cash">$39.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$42.900 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -80,8 +71,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$17.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$18.700 <span>Lista</span></div>
+                                        <div class="price-cash">$20.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$22.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -90,8 +81,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$32.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$35.200 <span>Lista</span></div>
+                                        <div class="price-cash">$35.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$38.500 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -100,13 +91,12 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$15.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$16.500 <span>Lista</span></div>
+                                        <div class="price-cash">$17.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$18.700 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
-                        </div><br>
-                        <div class="category-header">
+                        </div><br>\n                        <div class="category-header">
                             <h3>Estética de Pies</h3>
                             <div class="line"></div>
                         </div>
@@ -116,8 +106,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$22.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$24.200 <span>Lista</span></div>
+                                        <div class="price-cash">$24.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$26.400 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -126,8 +116,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$26.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$28.600 <span>Lista</span></div>
+                                        <div class="price-cash">$28.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$30.800 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -136,8 +126,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$26.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$28.600 <span>Lista</span></div>
+                                        <div class="price-cash">$28.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$30.800 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -146,8 +136,8 @@
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 40'</div>
                                     <div class="service-prices">
-                                        <div class="price-cash">$18.000 <span>Efectivo</span></div>
-                                        <div class="price-list">$19.800 <span>Lista</span></div>
+                                        <div class="price-cash">$20.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$22.000 <span>Lista</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -181,10 +171,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>
-                    </div>
-                    <div class="menu-category" id="peluqueria">
-                        <div class="category-header">
+                        </div><br>\n                    </div>\n                    <div class="menu-category" id="peluqueria">\n                        <div class="category-header">
                             <h3>Peluquería</h3>
                             <div class="line"></div>
                         </div>
@@ -289,10 +276,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>
-                    </div>
-                    <div class="menu-category" id="pestanas-cejas">
-                        <div class="category-header">
+                        </div><br>\n                    </div>\n                    <div class="menu-category" id="pestanas-cejas">\n                        <div class="category-header">
                             <h3>Pestañas</h3>
                             <div class="line"></div>
                         </div>
@@ -397,8 +381,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>
-                        <div class="category-header">
+                        </div><br>\n                        <div class="category-header">
                             <h3>Cejas y Promos</h3>
                             <div class="line"></div>
                         </div>
@@ -473,10 +456,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>
-                    </div>
-                    <div class="menu-category" id="cosmiatria">
-                        <div class="category-header">
+                        </div><br>\n                    </div>\n                    <div class="menu-category" id="cosmiatria">\n                        <div class="category-header">
                             <h3>Tratamientos Faciales</h3>
                             <div class="line"></div>
                         </div>
@@ -491,7 +471,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="service-card">
+                            <div class="service-card best-seller">
                                 <div class="service-name">Peeling</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
@@ -621,10 +601,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>
-                    </div>
-                    <div class="menu-category" id="masajes">
-                        <div class="category-header">
+                        </div><br>\n                    </div>\n                    <div class="menu-category" id="masajes">\n                        <div class="category-header">
                             <h3>Masajes y Relax</h3>
                             <div class="line"></div>
                         </div>
@@ -729,10 +706,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>
-                    </div>
-                    <div class="menu-category" id="holistico">
-                        <div class="category-header">
+                        </div><br>\n                    </div>\n                    <div class="menu-category" id="holistico">\n                        <div class="category-header">
                             <h3>Servicios Holísticos</h3>
                             <div class="line"></div>
                         </div>
@@ -807,7 +781,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="service-card">
+                            <div class="service-card best-seller">
                                 <div class="service-name">Cosmetología Holística</div>
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
@@ -817,8 +791,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>
-                        <div class="category-header">
+                        </div><br>\n                        <div class="category-header">
                             <h3>Servicios Adicionales</h3>
                             <div class="line"></div>
                         </div>
@@ -843,10 +816,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>
-                    </div>
-                    <div class="menu-category" id="aparatologia">
-                        <div class="category-header">
+                        </div><br>\n                    </div>\n                    <div class="menu-category" id="aparatologia">\n                        <div class="category-header">
                             <h3>Aparatología</h3>
                             <div class="line"></div>
                         </div>
@@ -931,10 +901,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>
-                    </div>
-                    <div class="menu-category" id="actividades">
-                        <div class="category-header">
+                        </div><br>\n                    </div>\n                    <div class="menu-category" id="actividades">\n                        <div class="category-header">
                             <h3>Clases</h3>
                             <div class="line"></div>
                         </div>
@@ -969,9 +936,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>
-                    </div>
-                </div>
+                        </div><br>\n                    </div>\n                </div>
             </div>
         </div>
     </section>
