@@ -3,20 +3,20 @@ import json
 data = [
     {"tab": "manos-pies", "title": "Manos y Pies", "categories": [
         {"name": "Manicuría", "items": [
-            {"name": "Manicuría con Esmaltado Tradicional", "cash": "20.000", "list": "22.000", "time": "60'", "best": False},
-            {"name": "Manicuría con Esmaltado Semipermanente", "cash": "22.000", "list": "24.200", "time": "60'", "best": False},
-            {"name": "Kapping", "cash": "29.000", "list": "31.900", "time": "90'", "best": False},
-            {"name": "Service Esculpidas (Gel, Polygel)", "cash": "31.000", "list": "34.100", "time": "90'", "best": False},
-            {"name": "Full Set Esculpidas (Gel, Polygel)", "cash": "35.000", "list": "38.500", "time": "120'", "best": False},
-            {"name": "Manicuría sin Esmaltado", "cash": "17.000", "list": "18.700", "time": "30'", "best": False},
-            {"name": "Soft Gel", "cash": "32.000", "list": "35.200", "time": "90'", "best": False},
-            {"name": "Spa de Manos", "cash": "15.000", "list": "16.500", "time": "30'", "best": True}
+            {"name": "Manicuría con Esmaltado Tradicional", "cash": "23.000", "list": "25.300", "time": "30'", "best": False},
+            {"name": "Manicuría con Esmaltado Semipermanente", "cash": "24.000", "list": "26.400", "time": "60'", "best": False},
+            {"name": "Kapping", "cash": "33.000", "list": "36.300", "time": "90'", "best": False},
+            {"name": "Service Esculpidas (Gel, Polygel)", "cash": "35.000", "list": "38.500", "time": "90'", "best": False},
+            {"name": "Full Set Esculpidas (Gel, Polygel)", "cash": "39.000", "list": "42.900", "time": "120'", "best": False},
+            {"name": "Manicuría sin Esmaltado", "cash": "20.000", "list": "22.000", "time": "30'", "best": False},
+            {"name": "Soft Gel", "cash": "35.000", "list": "38.500", "time": "90'", "best": False},
+            {"name": "Spa de Manos", "cash": "17.000", "list": "18.700", "time": "30'", "best": True}
         ]},
         {"name": "Estética de Pies", "items": [
-            {"name": "Belleza de Pies sin Esmaltado", "cash": "22.000", "list": "24.200", "time": "30'", "best": False},
-            {"name": "Belleza de Pies con Esmaltado Tradicional", "cash": "26.000", "list": "28.600", "time": "60'", "best": False},
-            {"name": "Belleza de Pies con Esmaltado Semipermanente", "cash": "26.000", "list": "28.600", "time": "60'", "best": False},
-            {"name": "Spa de Pies", "cash": "18.000", "list": "19.800", "time": "40'", "best": True},
+            {"name": "Belleza de Pies sin Esmaltado", "cash": "24.000", "list": "26.400", "time": "30'", "best": False},
+            {"name": "Belleza de Pies con Esmaltado Tradicional", "cash": "28.000", "list": "30.800", "time": "60'", "best": False},
+            {"name": "Belleza de Pies con Esmaltado Semipermanente", "cash": "28.000", "list": "30.800", "time": "60'", "best": False},
+            {"name": "Spa de Pies", "cash": "20.000", "list": "22.000", "time": "40'", "best": True},
             {"name": "Pedicuría sin Esmaltado", "cash": "32.000", "list": "35.200", "time": "50'", "best": False},
             {"name": "Pedicuría con Esmaltado Semipermanente o Tradicional", "cash": "35.000", "list": "38.500", "time": "60'", "best": False},
             {"name": "Promo Spa Manos y Pies", "cash": "35.000", "list": "38.500", "time": "90'", "best": True}
@@ -62,7 +62,7 @@ data = [
     {"tab": "cosmiatria", "title": "Cosmiatría", "categories": [
         {"name": "Tratamientos Faciales", "items": [
             {"name": "Higiene Premium", "cash": "50.000", "list": "55.000", "time": "90'", "best": True},
-            {"name": "Peeling", "cash": "50.000", "list": "55.000", "time": "60'", "best": False},
+            {"name": "Peeling", "cash": "50.000", "list": "55.000", "time": "60'", "best": True},
             {"name": "Microneedling", "cash": "55.000", "list": "60.500", "time": "90'", "best": False},
             {"name": "Higiene Profunda de Espalda", "cash": "60.000", "list": "66.000", "time": "70'", "best": False},
             {"name": "Rejuvenecimiento en Manos", "cash": "25.000", "list": "27.500", "time": "20'", "best": True},
@@ -100,7 +100,7 @@ data = [
             {"name": "Revolución Solar", "cash": "80.000", "list": "88.000", "time": "60'", "best": False},
             {"name": "Astrología + Tarot + Oráculos", "cash": "60.000", "list": "66.000", "time": "60'", "best": True},
             {"name": "Carta Numerológica", "cash": "35.000", "list": "38.500", "time": "60'", "best": True},
-            {"name": "Cosmetología Holística", "cash": "50.000", "list": "55.000", "time": "90'", "best": False}
+            {"name": "Cosmetología Holística", "cash": "50.000", "list": "55.000", "time": "90'", "best": True}
         ]},
         {"name": "Servicios Adicionales", "items": [
             {"name": "Maquillaje Social, Quinceañeras / Novias / Madrinas", "cash": "Consultar", "list": "", "time": "--", "best": False},
@@ -144,7 +144,7 @@ html = """
 visible_tabs = [tab for tab in data if tab.get("show_tab", True)]
 for i, tab in enumerate(visible_tabs):
     active = ' active' if i == 0 else ''
-    html += f'                    <button class="menu-tab{active}" data-target="{tab["tab"]}">{tab["title"]}</button>\n'
+    html += f'                    <button class="menu-tab{active}" data-target="{tab["tab"]}">{tab["title"]}</button>\\n'
 
 html += """                </div>
                 <div class="menu-content">
@@ -152,15 +152,15 @@ html += """                </div>
 
 for i, tab in enumerate(data):
     active = ' active' if i == 0 else ''
-    html += f'                    <div class="menu-category{active}" id="{tab["tab"]}">\n'
+    html += f'                    <div class="menu-category{active}" id="{tab["tab"]}">\\n'
     
     for cat in tab["categories"]:
-        html += f"""                        <div class="category-header">
+        html += f\"\"\"                        <div class="category-header">
                             <h3>{cat["name"]}</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
-"""
+\"\"\"
         for item in cat["items"]:
             best = ' best-seller' if item["best"] else ''
             
@@ -168,7 +168,7 @@ for i, tab in enumerate(data):
             list_price = f'${item["list"]} <span>Lista</span>' if item["list"] != '' else ''
             time_icon = f'<i class="far fa-clock"></i> {item["time"]}' if item["time"] != '--' else ''
             
-            html += f"""                            <div class="service-card{best}">
+            html += f\"\"\"                            <div class="service-card{best}">
                                 <div class="service-name">{item["name"]}</div>
                                 <div class="service-details-row">
                                     <div class="service-duration">{time_icon}</div>
@@ -178,9 +178,9 @@ for i, tab in enumerate(data):
                                     </div>
                                 </div>
                             </div>
-"""
-        html += "                        </div><br>\n"
-    html += "                    </div>\n"
+\"\"\"
+        html += "                        </div><br>\\n"
+    html += "                    </div>\\n"
 
 html += """                </div>
             </div>
