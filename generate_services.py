@@ -119,6 +119,21 @@ data = [
             {"name": "Vela Slim", "cash": "Consultar", "list": "", "time": "--", "best": False}
         ]}
     ]},
+    {"tab": "gift-cards", "title": "Gift Cards", "categories": [
+        {"name": "Brakko Relax 🥉", "items": [
+            {"name": "Masaje Relajante + Reiki", "cash": "55.000", "list": "Consultar", "time": "--", "best": False},
+            {"name": "Masaje Piedras Calientes + Masajes Podales", "cash": "55.000", "list": "Consultar", "time": "--", "best": False},
+            {"name": "Manicuría + Pedicuría + Perfilado de Cejas", "cash": "60.000", "list": "Consultar", "time": "--", "best": False}
+        ]},
+        {"name": "Brakko Premium 🥈", "items": [
+            {"name": "Masaje Relajante + Reflexología", "cash": "80.000", "list": "Consultar", "time": "--", "best": False},
+            {"name": "Masaje Strong + Pedicuría", "cash": "87.000", "list": "Consultar", "time": "--", "best": False}
+        ]},
+        {"name": "Brakko Experience 🥇", "items": [
+            {"name": "Higiene Facial + Reflexología", "cash": "90.000", "list": "Consultar", "time": "--", "best": False},
+            {"name": "Higiene Facial Profunda + Reflexología + Perfilado de Cejas", "cash": "106.000", "list": "Consultar", "time": "--", "best": False}
+        ]}
+    ]},
     {"tab": "actividades", "title": "Nuestras Actividades", "categories": [
         {"name": "Clases", "items": [
             {"name": "Yoga", "cash": "Consultar", "list": "", "time": "Mar y Jue 9hs, 17hs y 18.30hs", "best": False},
@@ -165,7 +180,8 @@ for i, tab in enumerate(data):
             best = ' best-seller' if item["best"] else ''
             
             cash = f'${item["cash"]}' if item["cash"] != 'Consultar' else 'Consultar'
-            list_price = f'${item["list"]} <span>Lista</span>' if item["list"] != '' else ''
+            list_val = f'${item["list"]}' if item["list"] != 'Consultar' else 'Consultar'
+            list_price = f'{list_val} <span>Lista</span>' if item["list"] != '' else ''
             time_icon = f'<i class="far fa-clock"></i> {item["time"]}' if item["time"] != '--' else ''
             
             html += f"""                            <div class="service-card{best}">

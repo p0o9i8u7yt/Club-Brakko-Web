@@ -301,14 +301,11 @@ h1, h2, h3, h4 {
 
 .menu-tabs {
     display: flex;
-    overflow-x: auto;
+    flex-wrap: wrap;
+    justify-content: center;
     background: var(--primary-color);
     padding: 15px 20px;
     gap: 10px;
-    scrollbar-width: none;
-}
-.menu-tabs::-webkit-scrollbar {
-    display: none;
 }
 .menu-tab {
     padding: 10px 20px;
