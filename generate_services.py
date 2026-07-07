@@ -74,7 +74,12 @@ data = [
             {"name": "Tratamiento con Acné", "cash": "50.000", "list": "55.000", "time": "90'", "best": False},
             {"name": "Colagenina y Fillerina (1 Sesión)", "cash": "70.000", "list": "77.000", "time": "90'", "best": False},
             {"name": "Colagenina y Fillerina (2 Sesiones)", "cash": "63.000", "list": "69.300", "time": "90'", "best": False},
-            {"name": "Extracción de Acrocordones", "cash": "Consultar", "list": "", "time": "--", "best": False}
+            {"name": "Cauterización de Acrocordones con Plasma Pen", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Spa Facial", "cash": "50.000", "list": "55.000", "time": "90'", "best": False},
+            {"name": "Vita C", "cash": "50.000", "list": "55.000", "time": "60'", "best": False},
+            {"name": "Facial Holístico", "cash": "50.000", "list": "55.000", "time": "90'", "best": False},
+            {"name": "Hydralips", "cash": "30.000", "list": "33.000", "time": "30'", "best": False},
+            {"name": "Exoxomas", "cash": "60.000", "list": "66.000", "time": "60'", "best": False}
         ]}
     ]},
     {"tab": "masajes", "title": "Masajes", "categories": [
@@ -107,16 +112,31 @@ data = [
             {"name": "Giftcards con Productos y Servicios", "cash": "Consultar", "list": "", "time": "--", "best": False}
         ]}
     ]},
+    {"tab": "depilacion", "title": "Depilación Láser", "categories": [
+        {"name": "Tratamiento realizado con equipo Alma Soprano Ice ORIGINAL", "items": [
+            {"name": "Próxima Jornada: 28/07", "cash": "Consultar", "list": "", "time": "--", "best": True},
+            {"name": "Combos y Precios (Esperando imagen)", "cash": "Consultar", "list": "", "time": "--", "best": False}
+        ]}
+    ]},
     {"tab": "aparatologia", "title": "Aparatología", "categories": [
         {"name": "Aparatología", "items": [
-            {"name": "Depilación Definitiva", "cash": "Consultar", "list": "", "time": "Martes 30/6", "best": False},
-            {"name": "Crio-Fraxis", "cash": "Consultar", "list": "", "time": "Martes 30/6", "best": False},
+            {"name": "Crio-Fraxis", "cash": "Consultar", "list": "", "time": "30/07", "best": False},
+            {"name": "HIFU 12D MAX", "cash": "Consultar", "list": "", "time": "--", "best": True},
+            {"name": "Láser ND YAG", "cash": "Consultar", "list": "", "time": "08/07", "best": False},
             {"name": "Radiofrecuencia Fraccionada", "cash": "Consultar", "list": "", "time": "--", "best": False},
-            {"name": "Láser ND YAG", "cash": "Consultar", "list": "", "time": "Miércoles 3/6", "best": False},
             {"name": "Criolipolisis", "cash": "Consultar", "list": "", "time": "--", "best": False},
             {"name": "Liposonix", "cash": "Consultar", "list": "", "time": "--", "best": False},
             {"name": "Body Up", "cash": "Consultar", "list": "", "time": "--", "best": False},
             {"name": "Vela Slim", "cash": "Consultar", "list": "", "time": "--", "best": False}
+        ]}
+    ]},
+    {"tab": "nutricion", "title": "Nutrición", "categories": [
+        {"name": "Nutrición con Profesional", "items": [
+            {"name": "Nutrición Clínica", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Salud Digestiva", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Educación Alimentaria", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Planes de Alimentación Personalizados", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Acompañamiento Profesional y Personalizado", "cash": "Consultar", "list": "", "time": "--", "best": True}
         ]}
     ]},
     {"tab": "gift-cards", "title": "Gift Cards", "categories": [
@@ -159,7 +179,7 @@ html = """
 visible_tabs = [tab for tab in data if tab.get("show_tab", True)]
 for i, tab in enumerate(visible_tabs):
     active = ' active' if i == 0 else ''
-    html += f'                    <button class="menu-tab{active}" data-target="{tab["tab"]}">{tab["title"]}</button>\\n'
+    html += f'                    <button class="menu-tab{active}" data-target="{tab["tab"]}">{tab["title"]}</button>\n'
 
 html += """                </div>
                 <div class="menu-content">
@@ -167,7 +187,7 @@ html += """                </div>
 
 for i, tab in enumerate(data):
     active = ' active' if i == 0 else ''
-    html += f'                    <div class="menu-category{active}" id="{tab["tab"]}">\\n'
+    html += f'                    <div class="menu-category{active}" id="{tab["tab"]}">\n'
     
     for cat in tab["categories"]:
         html += f"""                        <div class="category-header">
@@ -177,15 +197,18 @@ for i, tab in enumerate(data):
                         <div class="service-grid">
 """
         for item in cat["items"]:
-            best = ' best-seller' if item["best"] else ''
+            best = ' best-seller' if item.get("best", False) else ''
             
             cash = f'${item["cash"]}' if item["cash"] != 'Consultar' else 'Consultar'
-            list_val = f'${item["list"]}' if item["list"] != 'Consultar' else 'Consultar'
-            list_price = f'{list_val} <span>Lista</span>' if item["list"] != '' else ''
-            time_icon = f'<i class="far fa-clock"></i> {item["time"]}' if item["time"] != '--' else ''
+            list_val = f'${item["list"]}' if item.get("list", "Consultar") != 'Consultar' else 'Consultar'
+            list_price = f'{list_val} <span>Lista</span>' if item.get("list", "") != '' else ''
+            time_icon = f'<i class="far fa-clock"></i> {item["time"]}' if item.get("time", "--") != '--' else ''
+            
+            desc_html = f'<div class="service-desc">{item["desc"]}</div>' if item.get("desc") else ''
             
             html += f"""                            <div class="service-card{best}">
                                 <div class="service-name">{item["name"]}</div>
+                                {desc_html}
                                 <div class="service-details-row">
                                     <div class="service-duration">{time_icon}</div>
                                     <div class="service-prices">
@@ -195,8 +218,8 @@ for i, tab in enumerate(data):
                                 </div>
                             </div>
 """
-        html += "                        </div><br>\\n"
-    html += "                    </div>\\n"
+        html += "                        </div><br>\n"
+    html += "                    </div>\n"
 
 html += """                </div>
             </div>

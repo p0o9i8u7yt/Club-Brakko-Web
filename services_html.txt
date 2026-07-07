@@ -9,15 +9,28 @@
 
             <div class="menu-container">
                 <div class="menu-tabs">
-                    <button class="menu-tab active" data-target="manos-pies">Manos y Pies</button>\n                    <button class="menu-tab" data-target="peluqueria">Peluquería</button>\n                    <button class="menu-tab" data-target="pestanas-cejas">Pestañas y Cejas</button>\n                    <button class="menu-tab" data-target="cosmiatria">Cosmiatría</button>\n                    <button class="menu-tab" data-target="masajes">Masajes</button>\n                    <button class="menu-tab" data-target="holistico">Holístico & Extras</button>\n                    <button class="menu-tab" data-target="aparatologia">Aparatología</button>\n                    <button class="menu-tab" data-target="gift-cards">Gift Cards</button>\n                    <button class="menu-tab" data-target="actividades">Nuestras Actividades</button>\n                </div>
+                    <button class="menu-tab active" data-target="manos-pies">Manos y Pies</button>
+                    <button class="menu-tab" data-target="peluqueria">Peluquería</button>
+                    <button class="menu-tab" data-target="pestanas-cejas">Pestañas y Cejas</button>
+                    <button class="menu-tab" data-target="cosmiatria">Cosmiatría</button>
+                    <button class="menu-tab" data-target="masajes">Masajes</button>
+                    <button class="menu-tab" data-target="holistico">Holístico & Extras</button>
+                    <button class="menu-tab" data-target="depilacion">Depilación Láser</button>
+                    <button class="menu-tab" data-target="aparatologia">Aparatología</button>
+                    <button class="menu-tab" data-target="nutricion">Nutrición</button>
+                    <button class="menu-tab" data-target="gift-cards">Gift Cards</button>
+                    <button class="menu-tab" data-target="actividades">Nuestras Actividades</button>
+                </div>
                 <div class="menu-content">
-                    <div class="menu-category active" id="manos-pies">\n                        <div class="category-header">
+                    <div class="menu-category active" id="manos-pies">
+                        <div class="category-header">
                             <h3>Manicuría</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
                                 <div class="service-name">Manicuría con Esmaltado Tradicional</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
                                     <div class="service-prices">
@@ -28,6 +41,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Manicuría con Esmaltado Semipermanente</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -38,6 +52,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Kapping</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -48,6 +63,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Service Esculpidas (Gel, Polygel)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -58,6 +74,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Full Set Esculpidas (Gel, Polygel)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 120'</div>
                                     <div class="service-prices">
@@ -68,6 +85,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Manicuría sin Esmaltado</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
                                     <div class="service-prices">
@@ -78,6 +96,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Soft Gel</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -88,6 +107,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Spa de Manos</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
                                     <div class="service-prices">
@@ -96,13 +116,15 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                        <div class="category-header">
+                        </div><br>
+                        <div class="category-header">
                             <h3>Estética de Pies</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
                                 <div class="service-name">Belleza de Pies sin Esmaltado</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
                                     <div class="service-prices">
@@ -113,6 +135,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Belleza de Pies con Esmaltado Tradicional</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -123,6 +146,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Belleza de Pies con Esmaltado Semipermanente</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -133,6 +157,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Spa de Pies</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 40'</div>
                                     <div class="service-prices">
@@ -143,6 +168,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Pedicuría sin Esmaltado</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 50'</div>
                                     <div class="service-prices">
@@ -153,6 +179,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Pedicuría con Esmaltado Semipermanente o Tradicional</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -163,6 +190,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Promo Spa Manos y Pies</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -171,13 +199,17 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                    </div>\n                    <div class="menu-category" id="peluqueria">\n                        <div class="category-header">
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="peluqueria">
+                        <div class="category-header">
                             <h3>Peluquería</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
                                 <div class="service-name">Corte Dama</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -188,6 +220,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Corte Hombre</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 40'</div>
                                     <div class="service-prices">
@@ -198,6 +231,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Corte Niño (Hasta 7 años)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
                                     <div class="service-prices">
@@ -208,6 +242,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Tintura (Desde)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 120'</div>
                                     <div class="service-prices">
@@ -218,6 +253,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Reflejos / Mechas / Balayage</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -228,6 +264,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Alisado / Keratina (Desde)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 120'</div>
                                     <div class="service-prices">
@@ -238,6 +275,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Baño de Crema Karseell</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -248,6 +286,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Peinado para Fiestas</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -258,6 +297,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Cauterización Células Madres</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -268,6 +308,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Reflejos Hombre Desde</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -276,13 +317,17 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                    </div>\n                    <div class="menu-category" id="pestanas-cejas">\n                        <div class="category-header">
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="pestanas-cejas">
+                        <div class="category-header">
                             <h3>Pestañas</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
                                 <div class="service-name">Lifting de Pestañas + Tinte y Botox</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -293,6 +338,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Pelo x Pelo Clásicas (Full)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 40'</div>
                                     <div class="service-prices">
@@ -303,6 +349,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Pelo x Pelo Clásicas (Service)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -313,6 +360,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Efecto Rímel o Húmedo (Full)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -323,6 +371,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Efecto Rímel o Húmedo (Service)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -333,6 +382,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Tecnológicas 2D (Full)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -343,6 +393,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Tecnológicas 2D (Service)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -353,6 +404,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Tecnológicas 4D (Full)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -363,6 +415,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Tecnológicas 4D (Service)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -373,6 +426,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Consultar por Volumen // Tecnológicas 5 y 6D</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -381,13 +435,15 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                        <div class="category-header">
+                        </div><br>
+                        <div class="category-header">
                             <h3>Cejas y Promos</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
                                 <div class="service-name">Perfilado de Cejas</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
                                     <div class="service-prices">
@@ -398,6 +454,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Perfilado de Cejas y Henna</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 20'</div>
                                     <div class="service-prices">
@@ -408,6 +465,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Laminado de Cejas y Perfilado</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 45'</div>
                                     <div class="service-prices">
@@ -418,6 +476,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Laminado de Cejas y Perfilado + Henna</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -428,6 +487,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Microblading</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -438,6 +498,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Promo Ojos: Lifting Completo + Laminado + Perfilado</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -448,6 +509,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Promo Ojos: Lifting Completo + Perfilado</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -456,13 +518,17 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                    </div>\n                    <div class="menu-category" id="cosmiatria">\n                        <div class="category-header">
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="cosmiatria">
+                        <div class="category-header">
                             <h3>Tratamientos Faciales</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card best-seller">
                                 <div class="service-name">Higiene Premium</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -473,6 +539,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Peeling</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -483,6 +550,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Microneedling</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -493,6 +561,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Higiene Profunda de Espalda</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 70'</div>
                                     <div class="service-prices">
@@ -503,6 +572,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Rejuvenecimiento en Manos</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 20'</div>
                                     <div class="service-prices">
@@ -513,6 +583,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Higiene Premium con Dermaplaning</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -523,6 +594,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Dermaplaning con Nanoneedling</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -533,6 +605,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Radiofrecuencia Facial</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -543,6 +616,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Higiene con Terapia LED</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -553,6 +627,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Hidratación con Ultrasonido</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -563,6 +638,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Tratamiento con Acné</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -573,6 +649,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Colagenina y Fillerina (1 Sesión)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -583,6 +660,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Colagenina y Fillerina (2 Sesiones)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -592,7 +670,8 @@
                                 </div>
                             </div>
                             <div class="service-card">
-                                <div class="service-name">Extracción de Acrocordones</div>
+                                <div class="service-name">Cauterización de Acrocordones con Plasma Pen</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -601,13 +680,72 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                    </div>\n                    <div class="menu-category" id="masajes">\n                        <div class="category-header">
+                            <div class="service-card">
+                                <div class="service-name">Spa Facial</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$55.000 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Vita C</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$55.000 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Facial Holístico</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">$50.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$55.000 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Hydralips</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> 30'</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">$30.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$33.000 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Exoxomas</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">$60.000 <span>Efectivo</span></div>
+                                        <div class="price-list">$66.000 <span>Lista</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="masajes">
+                        <div class="category-header">
                             <h3>Masajes y Relax</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
                                 <div class="service-name">Descontracturante y Relajante</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -618,6 +756,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Drenaje Linfático</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -628,6 +767,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Masaje Premium (Descont. + Higiene Facial + Capilares)</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -638,6 +778,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Ayurveda</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -648,6 +789,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Strong</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -658,6 +800,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Maderoterapia / Masajes Reductores</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -668,6 +811,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Reflexología</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -678,6 +822,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Masaje con Reiki</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -688,6 +833,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Masaje Craneal y Piernas Cansadas</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 45'</div>
                                     <div class="service-prices">
@@ -698,6 +844,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Piedras Calientes</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -706,13 +853,17 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                    </div>\n                    <div class="menu-category" id="holistico">\n                        <div class="category-header">
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="holistico">
+                        <div class="category-header">
                             <h3>Servicios Holísticos</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card best-seller">
                                 <div class="service-name">Reiki con Cristales y Péndulo</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -723,6 +874,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Registros Akáshicos</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -733,6 +885,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Péndulo Hebreo</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -743,6 +896,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Carta Natal</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -753,6 +907,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Revolución Solar</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -763,6 +918,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Astrología + Tarot + Oráculos</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -773,6 +929,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Carta Numerológica</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 60'</div>
                                     <div class="service-prices">
@@ -783,6 +940,7 @@
                             </div>
                             <div class="service-card best-seller">
                                 <div class="service-name">Cosmetología Holística</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> 90'</div>
                                     <div class="service-prices">
@@ -791,13 +949,15 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                        <div class="category-header">
+                        </div><br>
+                        <div class="category-header">
                             <h3>Servicios Adicionales</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
                                 <div class="service-name">Maquillaje Social, Quinceañeras / Novias / Madrinas</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -808,6 +968,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Giftcards con Productos y Servicios</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -816,33 +977,58 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                    </div>\n                    <div class="menu-category" id="aparatologia">\n                        <div class="category-header">
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="depilacion">
+                        <div class="category-header">
+                            <h3>Tratamiento realizado con equipo Alma Soprano Ice ORIGINAL</h3>
+                            <div class="line"></div>
+                        </div>
+                        <div class="service-grid">
+                            <div class="service-card best-seller">
+                                <div class="service-name">Próxima Jornada: 28/07</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Combos y Precios (Esperando imagen)</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="aparatologia">
+                        <div class="category-header">
                             <h3>Aparatología</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
-                                <div class="service-name">Depilación Definitiva</div>
-                                <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> Martes 30/6</div>
-                                    <div class="service-prices">
-                                        <div class="price-cash">Consultar <span></span></div>
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="service-card">
                                 <div class="service-name">Crio-Fraxis</div>
+                                
                                 <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> Martes 30/6</div>
+                                    <div class="service-duration"><i class="far fa-clock"></i> 30/07</div>
                                     <div class="service-prices">
                                         <div class="price-cash">Consultar <span></span></div>
                                         
                                     </div>
                                 </div>
                             </div>
-                            <div class="service-card">
-                                <div class="service-name">Radiofrecuencia Fraccionada</div>
+                            <div class="service-card best-seller">
+                                <div class="service-name">HIFU 12D MAX</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -853,8 +1039,20 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Láser ND YAG</div>
+                                
                                 <div class="service-details-row">
-                                    <div class="service-duration"><i class="far fa-clock"></i> Miércoles 3/6</div>
+                                    <div class="service-duration"><i class="far fa-clock"></i> 08/07</div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Radiofrecuencia Fraccionada</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
                                     <div class="service-prices">
                                         <div class="price-cash">Consultar <span></span></div>
                                         
@@ -863,6 +1061,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Criolipolisis</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -873,6 +1072,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Liposonix</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -883,6 +1083,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Body Up</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -893,6 +1094,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Vela Slim</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -901,13 +1103,80 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                    </div>\n                    <div class="menu-category" id="gift-cards">\n                        <div class="category-header">
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="nutricion">
+                        <div class="category-header">
+                            <h3>Nutrición con Profesional</h3>
+                            <div class="line"></div>
+                        </div>
+                        <div class="service-grid">
+                            <div class="service-card">
+                                <div class="service-name">Nutrición Clínica</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Salud Digestiva</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Educación Alimentaria</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card">
+                                <div class="service-name">Planes de Alimentación Personalizados</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-card best-seller">
+                                <div class="service-name">Acompañamiento Profesional y Personalizado</div>
+                                
+                                <div class="service-details-row">
+                                    <div class="service-duration"></div>
+                                    <div class="service-prices">
+                                        <div class="price-cash">Consultar <span></span></div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="gift-cards">
+                        <div class="category-header">
                             <h3>Brakko Relax 🥉</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
                                 <div class="service-name">Masaje Relajante + Reiki</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -918,6 +1187,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Masaje Piedras Calientes + Masajes Podales</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -928,6 +1198,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Manicuría + Pedicuría + Perfilado de Cejas</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -936,13 +1207,15 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                        <div class="category-header">
+                        </div><br>
+                        <div class="category-header">
                             <h3>Brakko Premium 🥈</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
                                 <div class="service-name">Masaje Relajante + Reflexología</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -953,6 +1226,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Masaje Strong + Pedicuría</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -961,13 +1235,15 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                        <div class="category-header">
+                        </div><br>
+                        <div class="category-header">
                             <h3>Brakko Experience 🥇</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
                                 <div class="service-name">Higiene Facial + Reflexología</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -978,6 +1254,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Higiene Facial Profunda + Reflexología + Perfilado de Cejas</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"></div>
                                     <div class="service-prices">
@@ -986,13 +1263,17 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                    </div>\n                    <div class="menu-category" id="actividades">\n                        <div class="category-header">
+                        </div><br>
+                    </div>
+                    <div class="menu-category" id="actividades">
+                        <div class="category-header">
                             <h3>Clases</h3>
                             <div class="line"></div>
                         </div>
                         <div class="service-grid">
                             <div class="service-card">
                                 <div class="service-name">Yoga</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> Mar y Jue 9hs, 17hs y 18.30hs</div>
                                     <div class="service-prices">
@@ -1003,6 +1284,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Esferodinamia</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> Mié y Vie 18.30hs</div>
                                     <div class="service-prices">
@@ -1013,6 +1295,7 @@
                             </div>
                             <div class="service-card">
                                 <div class="service-name">Tai Chi</div>
+                                
                                 <div class="service-details-row">
                                     <div class="service-duration"><i class="far fa-clock"></i> Sáb 10hs</div>
                                     <div class="service-prices">
@@ -1021,7 +1304,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div><br>\n                    </div>\n                </div>
+                        </div><br>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

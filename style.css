@@ -404,6 +404,14 @@ h1, h2, h3, h4 {
     padding-right: 20px;
 }
 
+.service-desc {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    font-style: italic;
+}
+
 .service-details-row {
     display: flex;
     justify-content: space-between;
