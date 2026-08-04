@@ -114,17 +114,17 @@ data = [
     ]},
     {"tab": "depilacion", "title": "Depilación Láser", "categories": [
         {"name": "Tratamiento realizado con equipo Alma Soprano Ice ORIGINAL", "items": [
-            {"name": "Próxima Jornada: 28/07", "cash": "Consultar", "list": "", "time": "--", "best": True},
+            {"name": "Próxima Jornada: 25/08", "cash": "Consultar", "list": "", "time": "--", "best": True},
             {"name": "Combos y Precios (Esperando imagen)", "cash": "Consultar", "list": "", "time": "--", "best": False}
         ]}
     ]},
     {"tab": "aparatologia", "title": "Aparatología", "categories": [
         {"name": "Aparatología", "items": [
             {"name": "Crio-Fraxis", "cash": "Consultar", "list": "", "time": "30/07", "best": False},
-            {"name": "HIFU 12D MAX", "cash": "Consultar", "list": "", "time": "--", "best": True},
-            {"name": "Láser ND YAG", "cash": "Consultar", "list": "", "time": "08/07", "best": False},
+            {"name": "HIFU 12D MAX", "cash": "Consultar", "list": "", "time": "25/08", "best": True},
+            {"name": "Láser ND YAG", "cash": "Consultar", "list": "", "time": "12/08", "best": False},
             {"name": "Radiofrecuencia Fraccionada", "cash": "Consultar", "list": "", "time": "--", "best": False},
-            {"name": "Criolipolisis", "cash": "Consultar", "list": "", "time": "--", "best": False},
+            {"name": "Criolipolisis", "cash": "Consultar", "list": "", "time": "27/08", "best": False},
             {"name": "Liposonix", "cash": "Consultar", "list": "", "time": "--", "best": False},
             {"name": "Body Up", "cash": "Consultar", "list": "", "time": "--", "best": False},
             {"name": "Vela Slim", "cash": "Consultar", "list": "", "time": "--", "best": False}
